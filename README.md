@@ -1,7 +1,7 @@
 # task-manager-java
 :paperclip: Um gerenciador de tarefas desenvolvido com Hibernate Framework e banco de dados MySQL.
 
-## Tecnologias utilizadas :rocket: 
+## :rocket: Tecnologias utilizadas 
 
 O projeto foi feito utilizando as seguintes tecnologias:
 
